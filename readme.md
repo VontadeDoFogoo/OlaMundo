@@ -1,4 +1,4 @@
-# fundamentos AWS - Escola da Nuvem 💻
+# Fundamentos AWS - Escola da Nuvem 💻
 
 Projeto elaborado como parte da conclusão do curso "Fundamentos da AWS", oferecido pela Escola da Nuvem e ministrado pela professora Louise Carmo. A data de conclusão do projeto foi 17 de outubro de 2023. Neste repositório, registramos o desenvolvimento de nossa página estática. Vinculamos posteriormente com os serviços AWS.
 
