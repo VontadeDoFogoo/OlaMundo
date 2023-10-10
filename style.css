@@ -20,34 +20,59 @@ p {
     color: #fff;
 }
 
+.icon-aws{
+    width: 20vw;
+}
+
 .container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     margin: 20px;
+    gap: 15px;
+    
 }
 
+.photo-icon {
+    max-width: 150px; /* Ajusta a largura da imagem para caber no contêiner */
+    max-height: 150px; /* Ajusta a altura da imagem para caber no contêiner */
+    border-radius: 50%;
+}
 
 .inner-container {
-    width: 150px;
-    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    height: 280px;
     background-color: #FF8C00;
-    margin: 10px;
-    flex: 0 0 auto;
-    display: inline-block;
     border: 2px solid #2e3d49;
     color: #2e3d49;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    transition: background-color 0.3s, color 0.3s;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
-.inner-container:hover {
+.button-container {
     background-color: #2e3d49;
-    color: #FF8C00;
+    color: #fff;
+    border: none;
     cursor: pointer;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px 15px;
+    margin-top: 10px; /* Espaçamento superior para separar os botões */
 }
 
+.button-container:hover {
+    background-color: #05080a;
+}
+
+.div-button{
+    display:flex;
+    flex-direction: row;
+}
 .menu {
     background: #2e3d49;
     border-radius: 50%;
