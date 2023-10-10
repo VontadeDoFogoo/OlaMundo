@@ -54,19 +54,37 @@ p {
 }
 
 .button-container {
+    display: inline-block;
+    padding: 10px; 
+    margin: 5px; 
     background-color: #2e3d49;
     color: #fff;
-    border: none;
+    text-decoration: none;
+    border: none; 
+    border-radius: 5px; 
     cursor: pointer;
-    border-radius: 8px;
-    text-align: center;
-    font-size: 16px;
-    padding: 10px 15px;
-    margin-top: 10px; /* Espaçamento superior para separar os botões */
+    font-size: 16px; 
+}
+.introduction{
+    max-width: 600px; /* Define uma largura máxima para o conteúdo */
+            margin: 0 auto; /* Centraliza horizontalmente */
+            text-align: justify; /* Justifica o texto */
+}
+.button-back{
+    background-color:#FF8C00;
+    border-radius: 10px;
+    padding: 10px;
+    width: 120px;
 }
 
+.button-back:hover{
+    background-color: #2e3d49;
+    color: #ff8e04;
+}
 .button-container:hover {
-    background-color: #05080a;
+   
+    background-color: #2e3d49;
+    color: #ff8e04;
 }
 
 .div-button{
