@@ -16,21 +16,21 @@ Projeto elaborado como parte da conclusão do curso "Fundamentos da AWS", oferec
   
   <br>
 
-  Desenvolvido por:
+  📌 Desenvolvido por:
   <br>
-   📌Ana Leticia B. Prince: [Linkedin](https://www.linkedin.com/in/analeticiabacha)
+Ana Leticia B. Prince: [Linkedin](https://www.linkedin.com/in/analeticiabacha)
   <br>
-  📌Aline Sgiers: [Linkedin](https://www.linkedin.com/in/alinesgiers)
+    Aline Sgiers: [Linkedin](https://www.linkedin.com/in/alinesgiers)
   <br>
-📌Alessandra Rezende: [Linkedin](https://www.linkedin.com/in/alessandra-rezende/)
+   Alessandra Rezende: [Linkedin](https://www.linkedin.com/in/alessandra-rezende/)
   <br>
-📌Antonio Rian: [Linkedin](https://www.linkedin.com/in/antonio-rian)
+  Antonio Rian: [Linkedin](https://www.linkedin.com/in/antonio-rian)
   <br>
-📌Augusto Cezar: [Linkedin]()
+Augusto Cezar: [Linkedin]()
   <br>
  
   <div align="center">
-  <img alt="tela principal da aplicação" src=""/><br>
+  <img alt="tela principal da aplicação" src="https://github.com/VontadeDoFogoo/OlaMundo/assets/30864314/2fce423c-bbc4-4059-925f-d16f2e83c7ca"/><br>
   Tela 1: tela principal.
 </div>
   
