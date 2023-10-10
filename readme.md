@@ -30,8 +30,11 @@ Augusto Cezar: [Linkedin]()
   <br>
  
   <div align="center">
-  <img alt="tela principal da aplicação" src="https://github.com/VontadeDoFogoo/OlaMundo/assets/30864314/2fce423c-bbc4-4059-925f-d16f2e83c7ca"/><br>
-  Tela 1: tela principal.
+    <img alt="tela principal da aplicação" src="https://github.com/VontadeDoFogoo/OlaMundo/assets/30864314/2fce423c-bbc4-4059-925f-d16f2e83c7ca"/><br>
+    Tela 1: tela principal.
+
+  <img alt="tela com informações do trabalho" src="https://github.com/VontadeDoFogoo/OlaMundo/assets/30864314/64531dd5-d2ba-46ac-8961-8f7e76c22967"/><br>
+  Tela 2: Sobre.
 </div>
   
 </div>
