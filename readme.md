@@ -29,12 +29,14 @@ Ana Leticia B. Prince: [Linkedin](https://www.linkedin.com/in/analeticiabacha)
 Augusto Cezar: [Linkedin]()
   <br>
  
-  <div align="center">
-    <img alt="tela principal da aplicação" src="https://github.com/VontadeDoFogoo/OlaMundo/assets/30864314/2fce423c-bbc4-4059-925f-d16f2e83c7ca"/><br>
+<div align="center">
+    <img alt="tela principal da aplicação" src="https://github.com/VontadeDoFogoo/OlaMundo/assets/30864314/2c6d267a-6956-4184-bf0d-182cf6c8e42a"/><br>
+    
     Tela 1: tela principal.
 
-  <img alt="tela com informações do trabalho" src="https://github.com/VontadeDoFogoo/OlaMundo/assets/30864314/64531dd5-d2ba-46ac-8961-8f7e76c22967"/><br>
-  Tela 2: Sobre.
+<img alt="tela com informações do trabalho" src="https://github.com/VontadeDoFogoo/OlaMundo/assets/30864314/05db8ec5-8349-4a64-ab00-6c49264d038c"/><br>
+  
+    Tela 2: Sobre.
 </div>
   
 </div>
